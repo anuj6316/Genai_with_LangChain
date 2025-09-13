@@ -1,0 +1,4 @@
+[33m64c67fc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Update README with setup instructions and security notes
+[33md6a48c7[m Add .gitignore and env.example, remove .env from tracking
+[33m4248a60[m completed v04
+[33m9e78356[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Initial commit
