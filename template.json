@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "length_input",
+        "player_name",
+        "style_input"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\nPlease provide me the information about {player_name}, where mainly focus on the player's {style_input} and can you please generate the content in this {length_input} size.\nhere make sure of the couple of things:\n1. Provide a consise information about the player, if there is a need of mathematical reprensation show it.\n2. Make the information as factual, accurate as possible and try not to imagine anything if don't know somethings just say so.\n",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
